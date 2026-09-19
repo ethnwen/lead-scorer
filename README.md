@@ -9,7 +9,7 @@ during my internship (which cut account qualification time by ~30%).
 
 Not every prospect deserves equal effort. Lead scoring converts messy, qualitative
 signals (company size, industry fit, engagement, automation readiness) into a single
-rankable number. Sales teams work the "hot" leads first.
+rankable number. Sales teams work the "qualifying" leads first.
 
 ## How the scoring works
 
