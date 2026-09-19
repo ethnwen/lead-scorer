@@ -1,0 +1,22 @@
+[
+  {
+    "company": "NorthStar Logistics",
+    "employees": 120,
+    "industry": "logistics",
+    "annual_revenue_musd": 45.0,
+    "automation_readiness": 4,
+    "emails_opened": 6,
+    "website_visits": 9,
+    "replied": true
+  },
+  {
+    "company": "TinyTea Shop",
+    "employees": 4,
+    "industry": "retail",
+    "annual_revenue_musd": 0.4,
+    "automation_readiness": 1,
+    "emails_opened": 0,
+    "website_visits": 0,
+    "replied": false
+  }
+]

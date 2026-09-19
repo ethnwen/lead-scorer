@@ -1,0 +1,9 @@
+company,employees,industry,annual_revenue_musd,automation_readiness,emails_opened,website_visits,replied
+NorthStar Logistics,120,logistics,45.0,4,6,9,True
+Maple Freight Co,45,transportation,12.0,5,3,4,True
+Prairie Retail Group,800,retail,220.0,2,1,2,False
+BlueRock Manufacturing,260,manufacturing,85.0,4,5,6,False
+TinyTea Shop,4,retail,0.4,1,0,0,False
+Aurora Health Systems,1500,healthcare,600.0,3,2,3,False
+SwiftChain Warehousing,90,warehousing,18.0,5,8,10,True
+CloudNine Software,60,software,9.0,2,1,1,False
