@@ -77,7 +77,7 @@ lead-scorer/
 You need Python 3.10 or newer.
 
 ```
-git clone https://github.com/YOUR-USERNAME/lead-scorer.git
+git clone https://github.com/ethnwen/lead-scorer.git
 cd lead-scorer
 python -m venv venv
 ```
