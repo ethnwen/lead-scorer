@@ -1,0 +1,41 @@
+company,employees,industry,annual_revenue_musd,automation_readiness,emails_opened,website_visits,replied,demo_requested,days_since_last_activity,contact_seniority,budget_confirmed,timeline_months
+Ironwood Industrial,206,manufacturing,62.9,5,4,6,True,False,1,director,True,
+Silverline Financial,6796,finance,1276.3,1,0,0,False,False,200,,,
+Cedar Manufacturing,181,manufacturing,30.9,4,0,1,False,,45,,False,18
+Atlas Media,12,other,6.8,3,7,7,True,True,5,manager,,3
+Beacon Warehousing,168,warehousing,27.8,5,0,1,False,False,70,individual,False,12
+Falcon Supply Co,92,supply chain,32.5,5,1,0,False,,,individual,,18
+Orchard Capital,174,finance,12.7,3,2,6,True,True,40,individual,True,6
+Silverline Systems,12,software,5.7,4,8,6,True,True,9,director,,3
+Orchard Manufacturing,98,manufacturing,13.4,3,1,0,False,False,110,,False,9
+Ironwood Freight Lines,207,logistics,11.3,3,2,1,False,False,110,individual,,
+Aspen Freight Lines,5935,logistics,1142.0,1,0,1,False,,,individual,False,12
+Blue Ridge Industrial,199,manufacturing,83.6,5,6,6,True,False,14,vp,,3
+Beacon Software,565,software,66.4,4,6,2,True,True,40,,True,4
+Summit Transport,121,transportation,33.6,3,2,2,False,,150,,,18
+Ironwood Logistics,3611,logistics,851.8,2,0,1,False,,95,individual,,
+Crestview Health Network,9,healthcare,6.5,4,7,13,True,True,2,manager,True,1
+Blue Ridge Outfitters,2697,retail,1780.3,3,5,14,True,,3,vp,True,
+Juniper Capital,464,finance,118.4,3,2,1,False,True,25,individual,True,
+Cobalt Fabrication,874,manufacturing,18.3,4,4,6,False,,12,individual,True,
+Aspen Distribution,815,warehousing,24.4,2,2,2,True,False,60,,True,
+Juniper Financial,15,finance,2.4,3,4,7,True,,8,manager,True,1
+Atlas Warehousing,729,warehousing,35.4,5,5,2,False,,12,manager,True,9
+Cedar Fleet Services,121,transportation,47.1,4,9,9,True,True,13,c-level,,3
+Crestview Logistics,498,logistics,28.7,2,4,4,True,,12,vp,,9
+Orchard Media,3603,other,1160.0,2,1,0,False,,,,False,24
+Juniper Manufacturing,78,manufacturing,59.3,3,0,0,False,,110,manager,False,18
+Juniper Industrial,186,manufacturing,67.5,4,6,5,True,False,3,vp,True,3
+Riverbend Fabrication,81,manufacturing,60.6,4,4,9,True,True,8,c-level,True,
+Lakeshore Software,3,software,5.6,1,1,0,False,False,130,,,
+Tidewater Hospitality,2957,other,1128.7,2,6,6,True,True,1,manager,True,
+Sterling Distribution,128,warehousing,80.0,5,6,4,False,,25,,True,4
+Stonebridge Industrial,5315,manufacturing,2951.1,1,0,0,False,,,individual,False,12
+Orchard Financial,633,finance,31.3,4,1,4,True,True,25,manager,True,6
+Cobalt Trucking,122,transportation,17.6,5,5,10,True,True,1,vp,True,1
+Juniper Warehousing,9,warehousing,0.8,1,0,1,False,False,,individual,,24
+Juniper Logistics,228,logistics,82.0,5,7,10,True,False,8,c-level,True,2
+Crestview Distribution,247,warehousing,67.6,5,5,5,True,False,10,director,,2
+Harbor Logistics,672,logistics,45.2,2,4,7,False,,5,,True,
+Summit Fabrication,67,manufacturing,47.4,5,2,0,False,False,150,individual,False,18
+Redwood Systems,10,software,4.1,4,6,6,True,,4,vp,True,3
